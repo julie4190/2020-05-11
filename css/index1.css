@@ -5,8 +5,8 @@
 .img {
 	max-width: 10000px;
 	margin: 0 auto;
-	position: relative;
-	;
+	
+	
 }
 
 .title {
@@ -22,31 +22,24 @@
 
 
 /* header */
-.header .header {
-	background-image: url(../img/c-sl-005-768x512.jpg);
-	background-size: auto;
-	background-position: center;
-	background-repeat: no-repeat;
-	background-attachment: scroll;
+.header .title{text-align: center;}
+.navi
+{text-align: center;
+
+	font-size: 30px;
+	background-color: black;
+	color: white;
+	
+	
 }
 
 
 /* main-wrap */
-.main-wrap {
-	width: 100%;
-	height: 100%;
-	font-size: 30px;
-	background-color: black;
-	color: white;
-	text-align: center;
-	margin: 0 auto;
-	padding: 40px 0;
-}
-
+.main-wrap 
 /* about-wrap */
 .about-wrap {
 	border: 1px solid red;
-	padding: 40px 0;
+	padding:16px 0;margin: 0 auto;
 }
 
 .abouts>.title1 {
